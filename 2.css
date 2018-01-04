@@ -1,0 +1,28 @@
+.green {
+  background-color: #203957;
+  padding: 10px;
+}
+body
+{
+background-color: #BDBDBD;
+ 
+
+}
+ul li a:hover{
+  background-color: #08182C;
+};
+h1
+{
+font-size: 24em;
+}
+nav {
+  
+}
+input[type=text]:focus {
+    background-color: #203957;
+    color: white;
+}
+h1,h4,h3
+{
+display: inline;
+}

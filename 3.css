@@ -1,0 +1,35 @@
+
+.green {
+  background-color: #203957;
+  padding: 10px;
+}
+
+ul li a:hover{
+  background-color: #08182C;
+};
+
+.padded {
+	margin-top: 20px;
+}
+
+footer .social-footer {
+    padding: 10px;
+}
+
+footer .social-footer li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.bottom-footer {
+
+	margin-top:40px;
+}
+
+.description {
+	font-size: 20px;
+}
+
+.section {
+	padding-bottom: 20px ;
+}
