@@ -1,0 +1,32 @@
+body 
+{
+ background-image:url("abc.jpg");
+ background-repeat:no-repeat;
+ background-attachment:not-fixed; 
+ background-size:1320px;
+}
+
+h1
+{
+text-align:center;
+font-family:arial;
+font-size:55px;
+word-spacing:20px;
+}
+
+div.heading
+{
+color:rgb(23,100,200);
+font-size:30px;
+font-family:"";
+word-spacing:10px;
+}
+
+div.goals
+{
+font-size:20px;
+}
+div.tab
+{
+	background-color: rgb(255,44,67);
+}
